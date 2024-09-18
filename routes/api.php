@@ -4,7 +4,6 @@ use Illuminate\Http\Request;
 use App\Http\Controllers\AuthController; 
 use App\Http\Controllers\ChecklistController; 
 use App\Http\Controllers\ChecklistItemController;
-use Illuminate\Support\Facades\Route;
 /*
 |--------------------------------------------------------------------------
 | API Routes
